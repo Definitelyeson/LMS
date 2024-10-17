@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Project\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|h:\\project\\lms\\lms\\view\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|solutionrelative:lms\\view\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|h:\\project\\lms\\lms\\view\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|solutionrelative:lms\\view\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|h:\\project\\lms\\lms\\viewmodel\\borrowerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A347429-0A55-4FF2-A382-ECC721B50794}|LMS\\LMS.csproj|solutionrelative:lms\\viewmodel\\borrowerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowerViewModel.cs",
+              "DocumentMoniker": "H:\\Project\\LMS\\LMS\\ViewModel\\BorrowerViewModel.cs",
+              "RelativeDocumentMoniker": "LMS\\ViewModel\\BorrowerViewModel.cs",
+              "ToolTip": "H:\\Project\\LMS\\LMS\\ViewModel\\BorrowerViewModel.cs",
+              "RelativeToolTip": "LMS\\ViewModel\\BorrowerViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwEUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:44:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTransactions.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\LMS\\LMS\\View\\FrmTransactions.cs",
+              "RelativeDocumentMoniker": "LMS\\View\\FrmTransactions.cs",
+              "ToolTip": "H:\\Project\\LMS\\LMS\\View\\FrmTransactions.cs [Design]",
+              "RelativeToolTip": "LMS\\View\\FrmTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:17:50.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTransactions.cs",
+              "DocumentMoniker": "H:\\Project\\LMS\\LMS\\View\\FrmTransactions.cs",
+              "RelativeDocumentMoniker": "LMS\\View\\FrmTransactions.cs",
+              "ToolTip": "H:\\Project\\LMS\\LMS\\View\\FrmTransactions.cs",
+              "RelativeToolTip": "LMS\\View\\FrmTransactions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:50:37.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
