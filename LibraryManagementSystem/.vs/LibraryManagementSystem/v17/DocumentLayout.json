@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Latest Project\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E520B4E5-9636-43B2-9E2A-4B974FD88F7B}|LibraryManagementSystem\\LibraryManagementSystem.csproj|h:\\latest project\\librarymanagementsystem\\librarymanagementsystem\\view\\frmbooktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E520B4E5-9636-43B2-9E2A-4B974FD88F7B}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\view\\frmbooktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E520B4E5-9636-43B2-9E2A-4B974FD88F7B}|LibraryManagementSystem\\LibraryManagementSystem.csproj|h:\\latest project\\librarymanagementsystem\\librarymanagementsystem\\view\\frmbooktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E520B4E5-9636-43B2-9E2A-4B974FD88F7B}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\view\\frmbooktransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBookTransactions.cs",
+              "DocumentMoniker": "H:\\Latest Project\\LibraryManagementSystem\\LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "ToolTip": "H:\\Latest Project\\LibraryManagementSystem\\LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowE0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:56:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBookTransactions.cs [Design]",
+              "DocumentMoniker": "H:\\Latest Project\\LibraryManagementSystem\\LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\View\\frmBookTransactions.cs",
+              "ToolTip": "H:\\Latest Project\\LibraryManagementSystem\\LibraryManagementSystem\\View\\frmBookTransactions.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\View\\frmBookTransactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:50:23.126Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
